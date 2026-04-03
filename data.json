@@ -7,7 +7,26 @@
       "venue": "**ACM Transactions on Computing Education**, 2026",
       "badge": "Journal",
       "note": "Accepted; to appear",
-      "links": []
+      "links": [
+        {
+          "label": "DOI: 10.1145/3800962",
+          "url": "https://doi.org/10.1145/3800962"
+        }
+      ]
+    },
+    {
+      "type": "journal",
+      "title": "Designing Annotations in Visualization: Considerations from Visualization Practitioners and Educators",
+      "authors": "**Md Dilshadur Rahman**, Devin Lange, Ghulam Jilani Quadri, Paul Rosen",
+      "venue": "**Computer Graphics Forum**, 2026 · Proc. of Eurographics/IEEE VGTC Conference on Visualization (EuroVis)",
+      "badge": "Journal",
+      "note": "Accepted; to appear",
+      "links": [
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-design/"
+        }
+      ]
     },
     {
       "type": "journal",
@@ -17,8 +36,14 @@
       "badge": "Journal",
       "note": "22% acceptance rate",
       "links": [
-        { "label": "DOI: 10.1109/TVCG.2024.3456359", "url": "https://doi.org/10.1109/TVCG.2024.3456359" },
-        { "label": "Interactive Website", "url": "https://annotation-design-space.netlify.app/" }
+        {
+          "label": "DOI: 10.1109/TVCG.2024.3456359",
+          "url": "https://doi.org/10.1109/TVCG.2024.3456359"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-design-space/"
+        }
       ]
     },
     {
@@ -29,8 +54,14 @@
       "badge": "Journal",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1109/TVCG.2025.3600957", "url": "https://doi.org/10.1109/TVCG.2025.3600957" },
-        { "label": "Interactive Website", "url": "https://annotation-survey.netlify.app/" }
+        {
+          "label": "DOI: 10.1109/TVCG.2025.3600957",
+          "url": "https://doi.org/10.1109/TVCG.2025.3600957"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://annotation-survey.netlify.app/"
+        }
       ]
     },
     {
@@ -41,19 +72,32 @@
       "badge": "Journal",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1177/14738716241270247", "url": "https://doi.org/10.1177/14738716241270247" }
+        {
+          "label": "DOI: 10.1177/14738716241270247",
+          "url": "https://doi.org/10.1177/14738716241270247"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-taxonomy/"
+        }
       ]
     },
     {
       "type": "conference",
       "title": "AnnoGram: An Annotative Extension of the Grammar of Graphics",
-      "authors": "**Md Dilshadur Rahman**, Md Rahat-uz-Zaman, Andrew McNutt, Paul Rosen",
+      "authors": "**Md Dilshadur Rahman***, Md Rahat-uz-Zaman*, Andrew McNutt, Paul Rosen",
       "venue": "**IEEE Visualization and Visual Analytics (IEEE VIS)**, 2025",
       "badge": "Conference",
-      "note": null,
+      "note": "* Co-first authors",
       "links": [
-        { "label": "DOI: 10.48550/arXiv.2507.04236", "url": "https://doi.org/10.48550/arXiv.2507.04236" },
-        { "label": "Interactive Website", "url": "https://vl-annotation.netlify.app/" }
+        {
+          "label": "DOI: 10.48550/arXiv.2507.04236",
+          "url": "https://doi.org/10.48550/arXiv.2507.04236"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-grammar/"
+        }
       ]
     },
     {
@@ -64,7 +108,10 @@
       "badge": "Conference",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1007/978-3-031-77392-1_32", "url": "https://doi.org/10.1007/978-3-031-77392-1_32" }
+        {
+          "label": "DOI: 10.1007/978-3-031-77392-1_32",
+          "url": "https://doi.org/10.1007/978-3-031-77392-1_32"
+        }
       ]
     },
     {
@@ -75,7 +122,10 @@
       "badge": "Workshop",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1109/BELIV64461.2024.00020", "url": "https://doi.org/10.1109/BELIV64461.2024.00020" }
+        {
+          "label": "DOI: 10.1109/BELIV64461.2024.00020",
+          "url": "https://doi.org/10.1109/BELIV64461.2024.00020"
+        }
       ]
     },
     {
@@ -86,7 +136,10 @@
       "badge": "Workshop",
       "note": null,
       "links": [
-        { "label": "EduVis Workshop 2024", "url": "https://ieee-eduvis.github.io/2024.html" }
+        {
+          "label": "EduVis Workshop 2024",
+          "url": "https://ieee-eduvis.github.io/2024.html"
+        }
       ]
     },
     {
@@ -97,7 +150,10 @@
       "badge": "Conference",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1109/EDUCON60312.2024.10578647", "url": "https://doi.org/10.1109/EDUCON60312.2024.10578647" }
+        {
+          "label": "DOI: 10.1109/EDUCON60312.2024.10578647",
+          "url": "https://doi.org/10.1109/EDUCON60312.2024.10578647"
+        }
       ]
     },
     {
@@ -108,8 +164,18 @@
       "badge": "Workshop",
       "note": null,
       "links": [
-        { "label": "DOI: 10.31219/osf.io/fd8zj", "url": "https://doi.org/10.31219/osf.io/fd8zj" },
-        { "label": "VisComm Workshop 2023", "url": "https://tinyurl.com/viscomm2023" }
+        {
+          "label": "DOI: 10.31219/osf.io/fd8zj",
+          "url": "https://doi.org/10.31219/osf.io/fd8zj"
+        },
+        {
+          "label": "VisComm Workshop 2023",
+          "url": "https://tinyurl.com/viscomm2023"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-strategies/"
+        }
       ]
     },
     {
@@ -120,8 +186,14 @@
       "badge": "Workshop",
       "note": null,
       "links": [
-        { "label": "DOI: 10.31219/osf.io/e5vfy", "url": "https://doi.org/10.31219/osf.io/e5vfy" },
-        { "label": "VisComm Workshop 2022", "url": "https://tinyurl.com/viscomm2022" }
+        {
+          "label": "DOI: 10.31219/osf.io/e5vfy",
+          "url": "https://doi.org/10.31219/osf.io/e5vfy"
+        },
+        {
+          "label": "VisComm Workshop 2022",
+          "url": "https://tinyurl.com/viscomm2022"
+        }
       ]
     },
     {
@@ -132,7 +204,10 @@
       "badge": "Conference",
       "note": null,
       "links": [
-        { "label": "DOI: 10.1109/ECACE.2019.8679373", "url": "https://doi.org/10.1109/ECACE.2019.8679373" }
+        {
+          "label": "DOI: 10.1109/ECACE.2019.8679373",
+          "url": "https://doi.org/10.1109/ECACE.2019.8679373"
+        }
       ]
     },
     {
@@ -143,7 +218,14 @@
       "badge": "Poster",
       "note": null,
       "links": [
-        { "label": "IEEE VIS 2024 Poster", "url": "https://content-staging.ieeevis.org/year/2024/poster_v-vis-posters-1067.html" }
+        {
+          "label": "IEEE VIS 2024 Poster",
+          "url": "https://content-staging.ieeevis.org/year/2024/poster_v-vis-posters-1067.html"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-strategies/"
+        }
       ]
     },
     {
@@ -154,7 +236,10 @@
       "badge": "Poster",
       "note": null,
       "links": [
-        { "label": "IEEE VIS 2024 Poster", "url": "https://content-staging.ieeevis.org/year/2024/poster_v-vis-posters-1089.html" }
+        {
+          "label": "IEEE VIS 2024 Poster",
+          "url": "https://content-staging.ieeevis.org/year/2024/poster_v-vis-posters-1089.html"
+        }
       ]
     },
     {
@@ -165,18 +250,14 @@
       "badge": "Poster",
       "note": null,
       "links": [
-        { "label": "IEEE VIS 2022 Poster", "url": "https://virtual.ieeevis.org/year/2022/poster_v-vis-posters-1047.html" }
-      ]
-    },
-    {
-      "type": "review",
-      "title": "Designing Annotations in Visualization: Considerations from Visualization Practitioners and Educators",
-      "authors": "**Md Dilshadur Rahman**, Devin Lange, Ghulam Jilani Quadri, Paul Rosen",
-      "venue": "Under Review in **Eurographics/IEEE VGTC Conference on Visualization**, 2026",
-      "badge": "Under Review",
-      "note": null,
-      "links": [
-        { "label": "Interactive Website", "url": "https://vis-annotations.github.io/annotation-design/" }
+        {
+          "label": "IEEE VIS 2022 Poster",
+          "url": "https://virtual.ieeevis.org/year/2022/poster_v-vis-posters-1047.html"
+        },
+        {
+          "label": "Interactive Website",
+          "url": "https://dilshadurrahman58.github.io/annotation-taxonomy/"
+        }
       ]
     },
     {
@@ -187,6 +268,34 @@
       "badge": "Under Review",
       "note": null,
       "links": []
+    },
+    {
+      "type": "review",
+      "title": "AnnoBench: A Benchmark for Visualization Annotation Generation",
+      "authors": "Md Rahat-uz-Zaman*, **Md Dilshadur Rahman***, Andrew McNutt, Paul Rosen",
+      "venue": "Under Review, 2026",
+      "badge": "Under Review",
+      "note": "* Co-first authors",
+      "links": [
+        {
+          "label": "Interactive Website",
+          "url": "https://annobench.insane.casa/"
+        }
+      ]
+    },
+    {
+      "type": "review",
+      "title": "FocalLens: Visualizing Narratives through Focalization",
+      "authors": "S M Raihanul Alam, **Md Dilshadur Rahman**, Naimul Hoque",
+      "venue": "Under Review, 2026",
+      "badge": "Under Review",
+      "note": null,
+      "links": [
+        {
+          "label": "Interactive Website",
+          "url": "https://focal-lens.github.io/"
+        }
+      ]
     },
     {
       "type": "review",
